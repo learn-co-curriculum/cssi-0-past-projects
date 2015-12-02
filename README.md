@@ -15,3 +15,5 @@ Your webapp project will need to collect information from the user, process that
 * [Current](https://currentcssi.appspot.com)
 * [Clique](https://clique-cssi.appspot.com)
 * [MetaPoems](https://metapoems.appspot.com)
+
+<a href='https://learn.co/lessons/cssi-0-past-projects' data-visibility='hidden'>View this lesson on Learn.co</a>
